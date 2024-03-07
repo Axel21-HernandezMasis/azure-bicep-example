@@ -1,0 +1,1 @@
+az deployment group create --resoursce-group my-bicep-rg --name my-bicep-deployment --location eastus --template-file main.json
